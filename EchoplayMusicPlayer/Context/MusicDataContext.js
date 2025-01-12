@@ -40,7 +40,7 @@ export const MusicDataProvider = ({ children }) => {
       limit: "100",
     },
     headers: {
-      "x-rapidapi-key": "<API_KEY_HERE>",
+      "x-rapidapi-key": "2023e6831cmshf8796eed3273854p1156e0jsn17c07cf459e9",
       "x-rapidapi-host": "spotify23.p.rapidapi.com",
     },
   };
